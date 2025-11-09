@@ -5,8 +5,7 @@ pipeline {
 			FRONTEND_IMAGE= "mern-frontend:jenkins"
 			BACKEND_IMAGE= "mern-backend:jenkins"
 			PORT= "5000"
-			MONGO_URI= "mongodb://mongo:27017/taskdb"FRONTEND_IMAGE= "mern-frontend:jenkins"
-			BACKEND_IMAGE= "mern-backend:jenkins"
+			MONGO_URI= "mongodb://mongo:27017/taskdb"
 			PORT= "5000"
 			MONGO_URI= "mongodb://mongo:27017/taskdb"
 		} 
